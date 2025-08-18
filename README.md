@@ -89,8 +89,8 @@ Feel free to check out my repositories and reach out if you're interested in:
 
 **Contact:**  
 - [GitHub](https://github.com/jameslego-ctrl)  
-- [LinkedIn](www.linkedin.com/in/james-lego20)  
-- [Email](jameslego222@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/james-lego20)  
+- [Email](mailto:jameslego222@gmail.com)
 - [Immunefi](will update soon)
 - [hackerone](coming soon)
 - [codehawks](coming soon)

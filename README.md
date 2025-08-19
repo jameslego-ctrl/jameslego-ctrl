@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm James Lego — Blockchain & Smart Contract Developer
+# 👋 I'm James Lego — Blockchain & Smart Contract Developer
 
 Welcome to my GitHub!  
 I'm a passionate **blockchain developer**, specializing in **Solidity smart contract development**, **NFT creation**, and **security research**. With extensive experience in decentralized applications, I enjoy building robust protocols and performing thorough smart contract audits.
